@@ -1,0 +1,6 @@
+import vlc
+import keyboard  
+import time
+import subprocess
+import pyautogui
+import tkinter as tk
